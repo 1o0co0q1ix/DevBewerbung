@@ -107,4 +107,4 @@ Pull Requests sind ebenfalls willkommen!
 ---
 
 
-*Entwickelt von locoqlix ([Dein GitHub Profil Link oder Webseite])*
+*Entwickelt von [locoqlix](https://github.com/1o0co0q1ix)*
