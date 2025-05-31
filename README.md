@@ -13,20 +13,20 @@ Ein umfassendes Spigot/Paper-Plugin zur Anzeige detaillierter Serverstatistiken 
     *   Anzeige aller geladenen Mob-Typen.
     *   Anzahl pro Mob-Typ.
     *   Paginierung für eine große Anzahl verschiedener Mob-Typen.
-    *   ![Mob Statistik GUI]([Mob_GUI.png])
+    *   ![Mob Statistik GUI](Mob_GUI.png)
 *   **Block-Aktivitäten:**
     *   Anzahl der platzierten und abgebauten Blöcke in den letzten 5 Minuten.
-    *   ![Block Statistik GUI]([Block_GUI.png])
+    *   ![Block Statistik GUI](Block_GUI.png)
 *   **Redstone-Updates:**
     *   Anzahl der Redstone-Updates in den letzten 5 Minuten.
-    *   ![Redstone Statistik GUI]([Redstone_GUI.png])
+    *   ![Redstone Statistik GUI](Redstone_GUI.png)
 *   **Allgemeine Serverinformationen:**
     *   Anzahl der Online-Spieler.
     *   Anzahl der geladenen Welten und deren Namen.
     *   Gesamtzahl der Item-Entitäten.
     *   Gesamtzahl aller Entitäten.
     *   Anzahl der geladenen Chunks.
-    *   ![Allgemeine Statistik GUI]([General_GUI.png])
+    *   ![Allgemeine Statistik GUI](General_GUI.png)
 *   **Performance-Metriken:**
     *   Aktuelle Server-TPS (Ticks Per Second).
     *   RAM-Auslastung (Maximal, Zugewiesen, Genutzt).
