@@ -36,7 +36,7 @@ Ein umfassendes Spigot/Paper-Plugin zur Anzeige detaillierter Serverstatistiken 
 
 ## 🚀 Installation
 
-1.  Lade die neueste `DevBewerbung-X.X.X.jar` von der [Releases-Seite]([Platzhalter_Link_zu_Releases_oder_Download]).
+1.  Lade die neueste `DevBewerbung-X.X.X.jar` von der [[Releases-Seite](https://github.com/1o0co0q1ix/ServerStats/releases/tag/ServerStats-0.1.0-Alpha)].
 2.  Platziere die JAR-Datei in den `plugins`-Ordner deines Spigot/Paper-Servers.
 3.  Starte oder lade deinen Server neu (`/reload` oder `/restart`).
 4.  Das Plugin ist nun aktiv!
