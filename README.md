@@ -75,27 +75,26 @@ Aktuell benötigt das Plugin keine separate Konfigurationsdatei. Alle Einstellun
 Hier eine kleine Vorschau der GUIs:
 
 **Hauptmenü:**
-![Hauptmenü Screenshot]([Platzhalter_Main_GUI_Screenshot_Detail.png])
 
-**Mob-Übersicht (mit Paginierung):**
-![Mob-Übersicht Screenshot]([Platzhalter_Mob_GUI_Screenshot_Detail.png])
+![Hauptmenü Screenshot](Main_GUI.png)
 
-**Allgemeine Statistiken (Ausschnitt Performance):**
-![Allgemeine Statistiken Screenshot]([Platzhalter_General_GUI_Screenshot_Detail.png])
+**Mob-Übersicht:**
 
-*(Füge hier weitere relevante Screenshots ein)*
+![Mob-Übersicht Screenshot](Mob_GUI.png)
+
+**Allgemeine Statistiken:**
+
+![Allgemeine Statistiken Screenshot](General_GUI.png)
+
 
 ---
 
 ## ❗ Bekannte Probleme / Geplante Features
 
 *   **Bekannte Probleme:**
-    *   (Liste hier ggf. bekannte kleinere Bugs oder Einschränkungen auf)
+    *   keine bekannten Probleme zum aktuellen Zeitpunkt.
 *   **Geplante Features:**
-    *   Konfigurationsdatei für anpassbare Einstellungen.
-    *   Weitere Detailstatistiken (z.B. pro Welt).
-    *   Möglichkeit, Statistiken über einen bestimmten Zeitraum zu loggen.
-    *   (Deine weiteren Ideen)
+    *   keine spezifischen Features geplant, aber zukünftige Updates könnten neue Statistiken oder verbesserte GUI-Elemente beinhalten.
 
 ---
 
