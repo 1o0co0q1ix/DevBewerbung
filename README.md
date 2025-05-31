@@ -100,16 +100,11 @@ Hier eine kleine Vorschau der GUIs:
 
 ## 🤝 Mitwirken
 
-Wenn du Fehler findest oder Verbesserungsvorschläge hast, erstelle bitte ein [Issue]([Platzhalter_Link_zu_Issues_auf_GitHub_o.ä.]) auf GitHub (falls vorhanden).
+Wenn du Fehler findest oder Verbesserungsvorschläge hast, erstelle bitte ein [Issue]([https://github.com/1o0co0q1ix/ServerStats/issues]) auf GitHub (falls vorhanden).
 
 Pull Requests sind ebenfalls willkommen!
 
 ---
 
-## 📜 Lizenz
-
-Dieses Plugin steht unter der [MIT-Lizenz]([Platzhalter_Link_zur_LICENSE_Datei_falls_vorhanden_oder_Name_der_Lizenz]).
-
----
 
 *Entwickelt von locoqlix ([Dein GitHub Profil Link oder Webseite])*
