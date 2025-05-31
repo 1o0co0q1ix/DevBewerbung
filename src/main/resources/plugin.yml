@@ -1,0 +1,13 @@
+name: DevBewerbung
+version: '0.1.0-Alpha'
+main: de.locoqlix.devbewerbung.Main
+api-version: '1.21'
+authors: [ locoqlix ]
+description:
+  Portfolio: start 01.06.2025 - end 00.00.0000
+commands:
+  serverstats:
+    description: Zeigt Serverstatistiken an.
+    usage: /serverstats
+    aliases: [sstats, servstats]
+    permission: serverstats.use # Optional, aber gute Praxis
