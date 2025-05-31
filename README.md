@@ -1,7 +1,5 @@
 # ServerStats Plugin für Spigot/Paper
 
-![Plugin Logo oder Banner]([Platzhalter_Plugin_Banner.png])
-
 Ein umfassendes Spigot/Paper-Plugin zur Anzeige detaillierter Serverstatistiken über eine benutzerfreundliche GUI. Behalte den Überblick über Mobs, Blockaktivitäten, Redstone-Nutzung, Spieler, Welten und wichtige Performance-Metriken deines Minecraft-Servers.
 
 ---
