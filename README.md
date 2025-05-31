@@ -47,7 +47,7 @@ Ein umfassendes Spigot/Paper-Plugin zur Anzeige detaillierter Serverstatistiken 
 
 *   **Hauptbefehl:** `/serverstats` (Aliase: `/sstats`, `/servstats`)
     *   Öffnet die Haupt-GUI, von der aus du zu den verschiedenen Statistik-Kategorien navigieren kannst.
-    *   ![Haupt GUI]([Platzhalter_Main_GUI.png])
+    *   ![Haupt GUI](Main_GUI.png)
 
 *   **Navigation:**
     *   Klicke auf die verschiedenen Items in der Haupt-GUI, um die jeweiligen Detailansichten zu öffnen.
